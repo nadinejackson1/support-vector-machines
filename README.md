@@ -1,6 +1,6 @@
 # 100 Days of Machine Learning - Day 13: Support Vector Machines (SVM)
 
-In this project, we explore the use of Support Vector Machines (SVM) for classification tasks. We will walk through the implementation of an SVM classifier on a real-world dataset, visualize the results, and perform a simple unit test to ensure the functionality of our classifier.
+In this project, I used Support Vector Machines (SVM) for classification tasks. I implemented an SVM classifier, visualized the results, and performed a unit test to ensure the functionality of the classifier.
 
 ### Table of Contents
 
@@ -19,7 +19,7 @@ In this project, we explore the use of Support Vector Machines (SVM) for classif
 
 ### Dataset
 
-We will use the Breast Cancer Wisconsin dataset from the UCI Machine Learning Repository. The dataset contains features computed from digitized images of fine needle aspirate (FNA) of breast masses, and the goal is to predict whether the mass is malignant or benign. The dataset is included in the scikit-learn library.
+I used the Breast Cancer Wisconsin dataset from the UCI Machine Learning Repository. The dataset contains features computed from digitized images of fine needle aspirate (FNA) of breast masses, and the goal is to predict whether the mass is malignant or benign. The dataset is included in the scikit-learn library.
 
 ### Step by Step Guide
 
@@ -33,7 +33,7 @@ You can find the complete code and detailed explanations in the Jupyter Notebook
 
 ### Unit Test
 
-We have included a simple unit test in the notebook to ensure that the classifier's accuracy is above a certain threshold. The test checks if the accuracy is above 0.8, and if not, it raises an AssertionError with a message.
+Included is a simple unit test in the notebook to ensure that the classifier's accuracy is above a certain threshold. The test checks if the accuracy is above 0.8, and if not, it raises an AssertionError with a message.
 
 ### Conclusion
 
