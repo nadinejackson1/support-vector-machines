@@ -1,4 +1,6 @@
-# 100 Days of Machine Learning - Day 13: Support Vector Machines (SVM)
+### 100 Days of Machine Learning - Day 13 
+
+# Support Vector Machines (SVM)
 
 In this project, I used Support Vector Machines (SVM) for classification tasks. I implemented an SVM classifier, visualized the results, and performed a unit test to ensure the functionality of the classifier.
 
